@@ -1,0 +1,458 @@
+Starting job 1319240.indy2-login0 at Sun Mar 29 16:28:54 BST 2020
+Month:   0, Health_Squirrel: 30, Infected_Squirrel: 0, Total_Squirrel: 30
+cell                     population_influx        infection_level          
+1                        0                        0                        
+2                        0                        0                        
+3                        0                        0                        
+4                        0                        0                        
+5                        0                        0                        
+6                        0                        0                        
+7                        0                        0                        
+8                        0                        0                        
+9                        0                        0                        
+10                       0                        0                        
+11                       0                        0                        
+12                       0                        0                        
+13                       0                        0                        
+14                       0                        0                        
+15                       0                        0                        
+16                       0                        0                        
+
+Month:   1, Health_Squirrel: 35, Infected_Squirrel: 4, Total_Squirrel: 39
+cell                     population_influx        infection_level          
+1                        98                       16                       
+2                        101                      11                       
+3                        101                      8                        
+4                        96                       8                        
+5                        115                      9                        
+6                        103                      19                       
+7                        105                      16                       
+8                        109                      12                       
+9                        99                       11                       
+10                       139                      25                       
+11                       114                      10                       
+12                       132                      21                       
+13                       136                      13                       
+14                       118                      12                       
+15                       115                      19                       
+16                       120                      15                       
+
+Month:   2, Health_Squirrel: 34, Infected_Squirrel: 8, Total_Squirrel: 42
+cell                     population_influx        infection_level          
+1                        242                      25                       
+2                        250                      15                       
+3                        278                      21                       
+4                        261                      21                       
+5                        258                      15                       
+6                        260                      33                       
+7                        290                      27                       
+8                        269                      24                       
+9                        269                      26                       
+10                       276                      33                       
+11                       304                      22                       
+12                       282                      35                       
+13                       294                      26                       
+14                       287                      27                       
+15                       278                      33                       
+16                       280                      28                       
+
+Month:   3, Health_Squirrel: 29, Infected_Squirrel: 4, Total_Squirrel: 33
+cell                     population_influx        infection_level          
+1                        362                      41                       
+2                        377                      42                       
+3                        418                      49                       
+4                        395                      45                       
+5                        364                      37                       
+6                        407                      49                       
+7                        426                      41                       
+8                        405                      42                       
+9                        427                      53                       
+10                       408                      51                       
+11                       439                      46                       
+12                       407                      39                       
+13                       415                      52                       
+14                       431                      55                       
+15                       403                      49                       
+16                       413                      45                       
+
+Month:   4, Health_Squirrel: 25, Infected_Squirrel: 4, Total_Squirrel: 29
+cell                     population_influx        infection_level          
+1                        348                      63                       
+2                        358                      64                       
+3                        396                      68                       
+4                        385                      63                       
+5                        344                      62                       
+6                        392                      67                       
+7                        399                      53                       
+8                        373                      51                       
+9                        393                      60                       
+10                       348                      75                       
+11                       394                      56                       
+12                       356                      51                       
+13                       368                      70                       
+14                       378                      60                       
+15                       355                      59                       
+16                       353                      47                       
+
+Month:   5, Health_Squirrel: 26, Infected_Squirrel: 0, Total_Squirrel: 26
+cell                     population_influx        infection_level          
+1                        242                      48                       
+2                        261                      51                       
+3                        258                      54                       
+4                        262                      56                       
+5                        228                      41                       
+6                        276                      53                       
+7                        255                      47                       
+8                        254                      38                       
+9                        258                      37                       
+10                       247                      46                       
+11                       248                      47                       
+12                       243                      45                       
+13                       248                      46                       
+14                       248                      46                       
+15                       235                      45                       
+16                       237                      32                       
+
+Month:   6, Health_Squirrel: 25, Infected_Squirrel: 0, Total_Squirrel: 25
+cell                     population_influx        infection_level          
+1                        141                      22                       
+2                        147                      27                       
+3                        135                      29                       
+4                        145                      34                       
+5                        137                      16                       
+6                        144                      27                       
+7                        139                      29                       
+8                        125                      18                       
+9                        115                      17                       
+10                       126                      17                       
+11                       126                      28                       
+12                       133                      22                       
+13                       144                      17                       
+14                       115                      28                       
+15                       122                      26                       
+16                       115                      20                       
+
+Month:   7, Health_Squirrel: 25, Infected_Squirrel: 0, Total_Squirrel: 25
+cell                     population_influx        infection_level          
+1                        63                       9                        
+2                        79                       6                        
+3                        71                       12                       
+4                        69                       13                       
+5                        49                       7                        
+6                        69                       12                       
+7                        70                       10                       
+8                        56                       5                        
+9                        57                       6                        
+10                       56                       8                        
+11                       67                       4                        
+12                       61                       7                        
+13                       62                       6                        
+14                       59                       5                        
+15                       69                       8                        
+16                       64                       6                        
+
+Month:   8, Health_Squirrel: 25, Infected_Squirrel: 0, Total_Squirrel: 25
+cell                     population_influx        infection_level          
+1                        30                       4                        
+2                        33                       4                        
+3                        33                       5                        
+4                        31                       4                        
+5                        28                       1                        
+6                        33                       6                        
+7                        34                       5                        
+8                        18                       4                        
+9                        32                       4                        
+10                       25                       5                        
+11                       26                       1                        
+12                       26                       4                        
+13                       31                       4                        
+14                       25                       3                        
+15                       30                       3                        
+16                       28                       3                        
+
+Month:   9, Health_Squirrel: 26, Infected_Squirrel: 0, Total_Squirrel: 26
+cell                     population_influx        infection_level          
+1                        15                       0                        
+2                        23                       0                        
+3                        20                       0                        
+4                        15                       0                        
+5                        15                       0                        
+6                        23                       0                        
+7                        19                       0                        
+8                        19                       0                        
+9                        20                       0                        
+10                       18                       0                        
+11                       22                       0                        
+12                       19                       0                        
+13                       17                       0                        
+14                       16                       0                        
+15                       22                       0                        
+16                       21                       0                        
+
+Month:  10, Health_Squirrel: 26, Infected_Squirrel: 0, Total_Squirrel: 26
+cell                     population_influx        infection_level          
+1                        12                       0                        
+2                        12                       0                        
+3                        11                       0                        
+4                        12                       0                        
+5                        14                       0                        
+6                        19                       0                        
+7                        14                       0                        
+8                        14                       0                        
+9                        20                       0                        
+10                       13                       0                        
+11                       18                       0                        
+12                       19                       0                        
+13                       16                       0                        
+14                       10                       0                        
+15                       11                       0                        
+16                       20                       0                        
+
+Month:  11, Health_Squirrel: 26, Infected_Squirrel: 0, Total_Squirrel: 26
+cell                     population_influx        infection_level          
+1                        8                        0                        
+2                        14                       0                        
+3                        14                       0                        
+4                        12                       0                        
+5                        11                       0                        
+6                        19                       0                        
+7                        18                       0                        
+8                        15                       0                        
+9                        15                       0                        
+10                       12                       0                        
+11                       21                       0                        
+12                       19                       0                        
+13                       15                       0                        
+14                       11                       0                        
+15                       10                       0                        
+16                       20                       0                        
+
+Month:  12, Health_Squirrel: 26, Infected_Squirrel: 0, Total_Squirrel: 26
+cell                     population_influx        infection_level          
+1                        7                        0                        
+2                        14                       0                        
+3                        18                       0                        
+4                        13                       0                        
+5                        13                       0                        
+6                        20                       0                        
+7                        22                       0                        
+8                        10                       0                        
+9                        18                       0                        
+10                       15                       0                        
+11                       18                       0                        
+12                       15                       0                        
+13                       21                       0                        
+14                       13                       0                        
+15                       10                       0                        
+16                       18                       0                        
+
+Month:  13, Health_Squirrel: 26, Infected_Squirrel: 0, Total_Squirrel: 26
+cell                     population_influx        infection_level          
+1                        11                       0                        
+2                        17                       0                        
+3                        17                       0                        
+4                        10                       0                        
+5                        12                       0                        
+6                        13                       0                        
+7                        27                       0                        
+8                        11                       0                        
+9                        16                       0                        
+10                       21                       0                        
+11                       17                       0                        
+12                       13                       0                        
+13                       21                       0                        
+14                       14                       0                        
+15                       14                       0                        
+16                       16                       0                        
+
+Month:  14, Health_Squirrel: 27, Infected_Squirrel: 0, Total_Squirrel: 27
+cell                     population_influx        infection_level          
+1                        15                       0                        
+2                        12                       0                        
+3                        16                       0                        
+4                        9                        0                        
+5                        15                       0                        
+6                        16                       0                        
+7                        23                       0                        
+8                        8                        0                        
+9                        15                       0                        
+10                       23                       0                        
+11                       21                       0                        
+12                       19                       0                        
+13                       19                       0                        
+14                       12                       0                        
+15                       16                       0                        
+16                       18                       0                        
+
+Month:  15, Health_Squirrel: 27, Infected_Squirrel: 0, Total_Squirrel: 27
+cell                     population_influx        infection_level          
+1                        17                       0                        
+2                        13                       0                        
+3                        11                       0                        
+4                        14                       0                        
+5                        15                       0                        
+6                        15                       0                        
+7                        19                       0                        
+8                        13                       0                        
+9                        11                       0                        
+10                       22                       0                        
+11                       17                       0                        
+12                       17                       0                        
+13                       14                       0                        
+14                       15                       0                        
+15                       19                       0                        
+16                       18                       0                        
+
+Month:  16, Health_Squirrel: 27, Infected_Squirrel: 0, Total_Squirrel: 27
+cell                     population_influx        infection_level          
+1                        14                       0                        
+2                        11                       0                        
+3                        14                       0                        
+4                        20                       0                        
+5                        14                       0                        
+6                        19                       0                        
+7                        18                       0                        
+8                        11                       0                        
+9                        9                        0                        
+10                       16                       0                        
+11                       19                       0                        
+12                       15                       0                        
+13                       11                       0                        
+14                       19                       0                        
+15                       19                       0                        
+16                       22                       0                        
+
+Month:  17, Health_Squirrel: 27, Infected_Squirrel: 0, Total_Squirrel: 27
+cell                     population_influx        infection_level          
+1                        13                       0                        
+2                        12                       0                        
+3                        13                       0                        
+4                        24                       0                        
+5                        10                       0                        
+6                        19                       0                        
+7                        18                       0                        
+8                        19                       0                        
+9                        8                        0                        
+10                       15                       0                        
+11                       11                       0                        
+12                       12                       0                        
+13                       14                       0                        
+14                       21                       0                        
+15                       18                       0                        
+16                       18                       0                        
+
+Month:  18, Health_Squirrel: 28, Infected_Squirrel: 0, Total_Squirrel: 28
+cell                     population_influx        infection_level          
+1                        15                       0                        
+2                        17                       0                        
+3                        19                       0                        
+4                        23                       0                        
+5                        11                       0                        
+6                        18                       0                        
+7                        17                       0                        
+8                        15                       0                        
+9                        13                       0                        
+10                       14                       0                        
+11                       14                       0                        
+12                       11                       0                        
+13                       12                       0                        
+14                       19                       0                        
+15                       16                       0                        
+16                       20                       0                        
+
+Month:  19, Health_Squirrel: 28, Infected_Squirrel: 0, Total_Squirrel: 28
+cell                     population_influx        infection_level          
+1                        20                       0                        
+2                        15                       0                        
+3                        22                       0                        
+4                        22                       0                        
+5                        12                       0                        
+6                        18                       0                        
+7                        14                       0                        
+8                        19                       0                        
+9                        12                       0                        
+10                       14                       0                        
+11                       17                       0                        
+12                       12                       0                        
+13                       13                       0                        
+14                       15                       0                        
+15                       13                       0                        
+16                       12                       0                        
+
+Month:  20, Health_Squirrel: 29, Infected_Squirrel: 0, Total_Squirrel: 29
+cell                     population_influx        infection_level          
+1                        19                       0                        
+2                        18                       0                        
+3                        27                       0                        
+4                        18                       0                        
+5                        12                       0                        
+6                        17                       0                        
+7                        16                       0                        
+8                        17                       0                        
+9                        14                       0                        
+10                       17                       0                        
+11                       21                       0                        
+12                       17                       0                        
+13                       12                       0                        
+14                       15                       0                        
+15                       11                       0                        
+16                       10                       0                        
+
+Month:  21, Health_Squirrel: 29, Infected_Squirrel: 0, Total_Squirrel: 29
+cell                     population_influx        infection_level          
+1                        19                       0                        
+2                        16                       0                        
+3                        22                       0                        
+4                        15                       0                        
+5                        12                       0                        
+6                        16                       0                        
+7                        17                       0                        
+8                        17                       0                        
+9                        19                       0                        
+10                       16                       0                        
+11                       20                       0                        
+12                       23                       0                        
+13                       15                       0                        
+14                       11                       0                        
+15                       11                       0                        
+16                       9                        0                        
+
+Month:  22, Health_Squirrel: 29, Infected_Squirrel: 0, Total_Squirrel: 29
+cell                     population_influx        infection_level          
+1                        18                       0                        
+2                        21                       0                        
+3                        15                       0                        
+4                        14                       0                        
+5                        14                       0                        
+6                        14                       0                        
+7                        14                       0                        
+8                        17                       0                        
+9                        22                       0                        
+10                       18                       0                        
+11                       14                       0                        
+12                       23                       0                        
+13                       13                       0                        
+14                       12                       0                        
+15                       11                       0                        
+16                       13                       0                        
+
+Month:  23, Health_Squirrel: 29, Infected_Squirrel: 0, Total_Squirrel: 29
+cell                     population_influx        infection_level          
+1                        17                       0                        
+2                        21                       0                        
+3                        16                       0                        
+4                        16                       0                        
+5                        14                       0                        
+6                        11                       0                        
+7                        11                       0                        
+8                        14                       0                        
+9                        21                       0                        
+10                       15                       0                        
+11                       16                       0                        
+12                       23                       0                        
+13                       14                       0                        
+14                       9                        0                        
+15                       14                       0                        
+16                       14                       0                        
+
+Finished job 1319240.indy2-login0 at Sun Mar 29 16:29:53 BST 2020
