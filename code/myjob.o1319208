@@ -1,7 +1,0 @@
-/var/spool/PBS/mom_priv/jobs/1319208.indy2-login0.SC: line 38: cd: $/lustre/home/d171/s1952905/PDP/code: No such file or directory
-Started at Sun Mar 29 15:28:20 BST 2020
---------------------------------------------------------------------------------
-MPT ERROR: Not enough slots from job scheduler for requested ranks
-	(HPE MPT 2.18  10/02/18 04:03:22)
---------------------------------------------------------------------------------
-Finished at Sun Mar 29 15:28:20 BST 2020
